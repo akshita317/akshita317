@@ -61,46 +61,6 @@ Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
-
-## 💼 Professional Experience
-
-### 🔹 Software Engineer Intern | EQIQAI
-**June 2025 - Present**
-- Developing scalable backend services and responsive React-based frontend for AI-driven applications
-- Integrated PostgreSQL databases using pgAdmin with optimized API performance
-- Containerized deployments using Docker and managed version control via GitHub
-- Conducted cross-platform testing using Android Studio and Postman
-
-### 🔹 Web Developer Intern | Dream Filler Software Solution
-**May 2024 - July 2024**
-- Collaborated on developing scalable web applications using React and Full Stack technologies
-- Optimized frontend performance, reducing load times by implementing best practices
-- Enhanced UI/UX through frontend and backend integration
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 [CyberSecure](https://github.com/akshita317/cybersecure)
-**React | Node.js | MongoDB | PostgreSQL**
-- All-in-one cybersecurity platform with AI-driven threat detection and real-time insights
-- Interactive learning modules for digital safety and user awareness
-- Proactive threat prevention with user-centric secure experience
-
-### 🧠 [Divyang](https://github.com/akshita317/divyang)
-**HTML | CSS | JavaScript | Node.js | Vercel**
-- Inclusive platform supporting individuals with ADHD, Dyslexia, Alzheimer's, and Autism
-- Interactive games promoting cognitive stimulation and emotional well-being
-- Developed during hackathon with team collaboration
-
-### 🍔 [Bitez - Food Ordering App](https://github.com/akshita317/bitez)
-**React | Firebase | JavaScript | API Integration**
-- Food ordering platform with restaurant discovery and advanced search
-- Real-time updates with cart management and order simulation
-- Optimized performance showcasing expertise in frontend development
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
