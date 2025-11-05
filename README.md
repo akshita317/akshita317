@@ -94,13 +94,13 @@ Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA:
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshita-kumari" target="_blank">
+  <a href="https://www.linkedin.com/in/akshitakumari317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:akshitasingh3027@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/akshitakumari731" target="_blank">
+  <a href="https://leetcode.com/u/akshitakumari731/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/akshitakumari731" target="_blank">
@@ -111,9 +111,6 @@ Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA:
   </a>
   <a href="https://www.hackerrank.com/@akshitasingh3027" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://instagram.com/akshitakumari3107" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
