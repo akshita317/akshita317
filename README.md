@@ -21,8 +21,7 @@ Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA:
 - 💼 **Experience:** Software Engineer Intern @ EQIQAI | Former Web Developer Intern @ Dream Filler Software
 - 🏆 **Achievements:** 500+ day LeetCode streak | Top 100 Coder @ VIT | AIR 723 in VITEEE
 - 📫 **Reach Me:** [akshitasingh3027@gmail.com](mailto:akshitasingh3027@gmail.com)
-- 📄 **Resume:** [View My Resume](https://your-resume-link.com)
-- 🌐 **Portfolio:** [akshitakumari.dev](https://your-portfolio-link.com)
+- 🌐 **Portfolio:** [akshitakumari.dev](https://akporfolioi.vercel.app/)
 
 ---
 
