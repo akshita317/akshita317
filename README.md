@@ -61,6 +61,7 @@ Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -72,8 +73,26 @@ Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshita317&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshita317/akshita317/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshita317/akshita317/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshita317/akshita317/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 💻 LeetCode Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshita317&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://leetcard.jacoblin.cool/akshitakumari731?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=akshitakumari731&theme=dark" alt="LeetCode Stats Alternative"/>
 </p>
 
 ---
