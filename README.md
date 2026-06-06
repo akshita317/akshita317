@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA: 8.59) with a passion for building scalable web applications and solving complex algorithmic problems. Currently working as a Software Engineer Intern at **EQIQAI**, developing AI-driven applications with modern tech stacks.
+Recent Computer Science graduate from **Vellore Institute of Technology** (CGPA: 8.59) with a passion for building scalable web applications and solving complex algorithmic problems. Currently working as a Junior Platform & Automation Engineer @Alchemy group Software Engineer Intern at **EQIQAI**, developing AI-driven applications with modern tech stacks.
 
 - 🔭 **Currently Working On:** Full-stack AI applications using React, Node.js, PostgreSQL, and Docker
 - 🌱 **Learning:** Django, Spring Boot, Advanced System Design
